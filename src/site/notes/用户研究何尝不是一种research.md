@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research/"}
+{"dg-publish":true,"dg-permalink":"user-research-is-real-research","permalink":"/user-research-is-real-research/"}
 ---
 
 
