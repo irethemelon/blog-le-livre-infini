@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cdst/"}
+{"dg-publish":true,"dg-permalink":"cdst","permalink":"/cdst/"}
 ---
 
 
