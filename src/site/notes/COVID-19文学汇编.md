@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covid-19/"}
+{"dg-publish":true,"dg-permalink":"covid-19","permalink":"/covid-19/"}
 ---
 
 
