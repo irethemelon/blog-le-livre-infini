@@ -4,11 +4,22 @@
 
 # 欢迎语 / Welcome Note
 欢迎来到无穷小驴的个人博客 - 《无尽之书 / Le Livre Infini》
-
+还没想好除了这句之外还能有什么别的好说的。
 
 # 无尽之书 / Le Livre Infini
 ## 0 导览 / Introduction
+>[!abstract]+
+>《无尽之书》现收录无穷小驴自2013开始写作以来创作的所有让她引以为傲的作品。由于内容众多、时间线混乱，为了增强读者的浏览体验，本书按目前1-5章的主题进行了分类，新增导览章节来置顶一些小驴和友人精选的必读文学、展览一些小驴最新发布的文学、预告一些小驴正在创作中的文学。
 
+### 0.1 精选置顶 / Pinned
+[[小人路过安宁市\|小人路过安宁市]]
+[[Ain’t No Strings That Bind Us\|Ain’t No Strings That Bind Us]]
+
+### 0.2 最新发布 / Newest Release
+[[永不婚恋\|永不婚恋]]
+
+### 0.3 敬请期待 / In Progress
+[[情绪化教程：多情脆弱的人文社科男女怎么给自己建博客\|情绪化教程：多情脆弱的人文社科男女怎么给自己建博客]]
 
 ## 1 行走的词典 / Walking Dictionary
 
@@ -85,7 +96,7 @@
 
 ## 4 柔软的心灵 / Crying Over Things
 >[!abstract]+
->我常常在午后和夜里哭泣。这句话说出来或许让人有些尴尬，但很不幸的是，我忍不住为很多事流泪。本章节记录所有我为之动情的事物，读起来就是伍尔夫的意识流文学。
+>我常常在午后和夜里哭泣。这句话说出来或许让人有些尴尬，但很不幸的是，我忍不住为很多事流泪。本章节记录所有我为之流泪又为之作记的事物，读起来就是伍尔夫的意识流文学。
 
 [[初雪\|初雪]]
 [[电脑更新\|电脑更新]]
@@ -111,7 +122,6 @@
 [[Don't Sing About Love\|Don't Sing About Love]]
 [[Reminiscing\|Reminiscing]]
 
-
 ---
 
 # 关于本博客 / About This Blog
@@ -124,18 +134,32 @@
 >希望你能时常来爱一爱，我这本独一无二的小书。我希望它无穷无尽，哪怕我魅力有限。
 
 我的博客是怎么做出来的？
+稍等，别急，我在写新博文了...
 
 # 关于我 / About Me
+读者您好，我是善良的无穷小驴。
+我在工作之前读了太久太久的文科，以至于我偶尔还会忧心忡忡地想啊，这世界上怎么还有那么多书我没看完呢？
+我现在正在成都市的一家教育科技有限公司做教研工作。正如名字所指，我没有写作的时候兴许都在努力工作，和我喜欢的朋友同事一起。
+我闲时也在工作。因为我实在太擅长也太热爱英语语言文学了，所以一有机会就会开一些语言培训课程（雅思、托福、小托福），开一些文化课程（外刊导读、原著导读、历史人文导读），收获了特好的反响。
+我再闲一点时，就喜欢给自己做项链、画画，周末她会去骑车、滑雪/滑滑板、爬山。我以前也摄影，不过我现在感觉有些疲惫了，我也在等重拾相机那一天。
 
+感谢你读到这里！如果喜欢这个博客，请想个办法给我留言吧 ;)
 
 联系邮箱：
 irethemelon@yeah.net
 
 我的社媒：
-Telegram Channel: [rabbit_hole_bonanza](https://t.me/rabbitholebonanza)
-Instagram: [irethemelon](https://www.instagram.com/irethemelon/?hl=en) / [watermelon_is_the_worst_fruit](https://www.instagram.com/watermelon_is_the_worst_fruit/?hl=en)
-Weibo: [neither·here·nor·there](https://weibo.com/irethemelon) / [either·here·or·there](https://weibo.com/toxicmelon49)
-Douban: [silo](https://www.douban.com/people/IreRulez/)
-微信公众号: 49Kerfuffles
+- Telegram Channel: [rabbit_hole_bonanza](https://t.me/rabbitholebonanza)
+- Instagram: [irethemelon](https://www.instagram.com/irethemelon/?hl=en) / [watermelon_is_the_worst_fruit](https://www.instagram.com/watermelon_is_the_worst_fruit/?hl=en)
+- Weibo: [neither·here·nor·there](https://weibo.com/irethemelon) / [either·here·or·there](https://weibo.com/toxicmelon49)
+- Douban: [silo](https://www.douban.com/people/IreRulez/)
+- 微信公众号: 49Kerfuffles
 
 # 致谢 / Acknowledgements
+在此衷心感谢曲奇、日天、杨哥的大力支持，没有他们的鼓励和倾囊相授就不会有这个博客了（其实杨哥除了说“你也写一个博客噻”之外，没有提供对本博客建站的支持，但如果没有杨哥我就不会认识曲奇和日天了！所以我把他写在这里，我相信他会帮我转发我的博客站点）。
+也感谢两个微信群：“Can be bothered”和“驴子也要休息”，没有他们就没有我如今稳如老狗的情绪。
+最后感谢那些勤勤恳恳搞开发、认认真真写文档的程序员们，感谢你们让我的世界变得直白流畅、清晰明朗。
+
+现在，请你去看看我的好朋友们吧！
+🪑[gaoryrt的博客](https://gaoryrt.com/)
+💺[Psychic Paper](https://yuqiqin.me/)
