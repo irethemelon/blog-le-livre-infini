@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/new-chinese-cinema/"}
+{"dg-publish":true,"dg-permalink":"new-chinese-cinema","permalink":"/new-chinese-cinema/"}
 ---
 
 
