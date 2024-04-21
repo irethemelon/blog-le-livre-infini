@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cut/"}
+{"dg-publish":true,"dg-permalink":"steak-cuts","permalink":"/steak-cuts/"}
 ---
 
 ![Pasted image 20240421153949.png](/img/user/Pasted%20image%2020240421153949.png)
