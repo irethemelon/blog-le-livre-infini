@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/le-livre-infini/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-permalink":"le-livre-infini","permalink":"/le-livre-infini/","tags":["gardenEntry"]}
 ---
 
 # 欢迎语 / Welcome Note
