@@ -4,7 +4,7 @@
 
 # 欢迎语 / Welcome Note
 欢迎来到无穷小驴的个人博客 - 《无尽之书 / Le Livre Infini》
-还没想好除了这句之外还能有什么别的好说的。
+本博客关于语言文学、人文社科，关于世界，关于流泪，关于爱。
 
 # 无尽之书 / Le Livre Infini
 ## 0 导览 / Introduction
