@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vanitas-hubris/"}
+{"dg-publish":true,"dg-permalink":"vanitas-hubris-baudelaire","permalink":"/vanitas-hubris-baudelaire/"}
 ---
 
 
