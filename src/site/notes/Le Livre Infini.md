@@ -28,7 +28,7 @@
 [[世界上其实不存在完全自洽的人\|世界上其实不存在完全自洽的人]]
 [[被好友滋养的感觉就像\|被好友滋养的感觉就像]]
 [[porn categories\|porn categories]]
-[[orient & occident\|orient & occident]]
+
 ## 1 行走的词典 / Walking Dictionary
 
 > [!abstract]+
@@ -44,6 +44,7 @@
 [[cyclopia\|cyclopia]]
 [[flâneur\|flâneur]]
 [[hospitality\|hospitality]]
+[[orient & occident vs. east & west\|orient & occident vs. east & west]]
 [[osmanthus\|osmanthus]]
 [[pig iron\|pig iron]]
 [[sepia\|sepia]]
