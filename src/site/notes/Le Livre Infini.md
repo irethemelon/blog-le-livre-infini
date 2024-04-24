@@ -37,6 +37,7 @@
 [[丹佛掘金的英语怎么会是Denver Nuggets？\|丹佛掘金的英语怎么会是Denver Nuggets？]]
 [[飞地\|飞地]]
 [[牛排的各种cut\|牛排的各种cut]]
+[[献给小羊的英语教材：学习代码，理解代码，成为代码，超越代码\|献给小羊的英语教材：学习代码，理解代码，成为代码，超越代码]]
 [[Arkansas & Kansas\|Arkansas & Kansas]]
 [[balkanize\|balkanize]]
 [[bimbo\|bimbo]]
