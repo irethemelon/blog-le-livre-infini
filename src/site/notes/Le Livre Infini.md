@@ -164,8 +164,7 @@ irethemelon@yeah.net
 
 我的社媒：
 - Telegram Channel: [rabbit_hole_bonanza](https://t.me/rabbitholebonanza)
-- Instagram: [irethemelon](https://www.instagram.com/irethemelon/?hl=en) / [watermelon_is_the_worst_fruit](https://www.instagram.com/watermelon_is_the_worst_fruit/?hl=en)
-- Weibo: [neither·here·nor·there](https://weibo.com/irethemelon) / [either·here·or·there](https://weibo.com/toxicmelon49)
+- Weibo:  [either·here·or·there](https://weibo.com/toxicmelon49)
 - Douban: [silo](https://www.douban.com/people/IreRulez/)
 - 微信公众号: 49Kerfuffles
 
