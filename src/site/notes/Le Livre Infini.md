@@ -28,7 +28,6 @@
 [[世界上其实不存在完全自洽的人\|世界上其实不存在完全自洽的人]]
 [[被好友滋养的感觉就像\|被好友滋养的感觉就像]]
 [[porn categories\|porn categories]]
-[[balkanize\|balkanize]]
 [[orient & occident\|orient & occident]]
 ## 1 行走的词典 / Walking Dictionary
 
@@ -38,6 +37,7 @@
 [[飞地\|飞地]]
 [[牛排的各种cut\|牛排的各种cut]]
 [[Arkansas & Kansas\|Arkansas & Kansas]]
+[[balkanize\|balkanize]]
 [[bimbo\|bimbo]]
 [[bonanza\|bonanza]]
 [[catnip & catmint\|catnip & catmint]]
