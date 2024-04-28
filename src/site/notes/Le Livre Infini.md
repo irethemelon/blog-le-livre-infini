@@ -18,7 +18,6 @@
 [[献给小羊的英语教材：学习代码，理解代码，成为代码，超越代码\|献给小羊的英语教材：学习代码，理解代码，成为代码，超越代码]]
 
 ### 0.2 最新发布 / Newest Release
-[[永不婚恋\|永不婚恋]]
 [[羊杂粉\|羊杂粉]]
 ### 0.3 敬请期待 / In Progress
 [[情绪化教程：多情脆弱的人文社科男女怎么给自己建博客\|情绪化教程：多情脆弱的人文社科男女怎么给自己建博客]]
@@ -44,6 +43,7 @@
 [[hospitality\|hospitality]]
 [[orient & occident vs. east & west\|orient & occident vs. east & west]]
 [[osmanthus\|osmanthus]]
+[[pedigree\|pedigree]]
 [[pig iron\|pig iron]]
 [[sepia\|sepia]]
 [[swan\|swan]]
