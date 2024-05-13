@@ -175,7 +175,7 @@
 irethemelon@yeah.net
 
 我的社媒：
-- Telegram Channel: [rabbit_hole_bonanza](https://t.me/rabbitholebonanza)
+- Telegram Channel: [rabbit_hole_bonanza](https://t.me/rabbitholebonanza2)
 - Weibo:  [either·here·or·there](https://weibo.com/toxicmelon49)
 - Douban: [silo](https://www.douban.com/people/IreRulez/)
 - 微信公众号: 49Kerfuffles
