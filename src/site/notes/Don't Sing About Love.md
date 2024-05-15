@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/don-t-sing-about-love/"}
+{"dg-publish":true,"dg-permalink":"do-not-sing-about-love","permalink":"/do-not-sing-about-love/"}
 ---
 
 
