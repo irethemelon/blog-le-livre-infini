@@ -141,7 +141,6 @@
 [[淤堵\|淤堵]]
 [[Ain’t No Strings That Bind Us\|Ain’t No Strings That Bind Us]]
 [[Blue Hour\|Blue Hour]]
-[[Don't Sing About Love\|Don't Sing About Love]]
 [[Reminiscing\|Reminiscing]]
 
 ---
