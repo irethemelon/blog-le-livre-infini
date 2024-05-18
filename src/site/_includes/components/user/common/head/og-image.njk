@@ -2,9 +2,7 @@
     {% for name, content in metatags %}
         <meta name="{{ name }}" content="{{ content }}">
     {% endfor %}
-    <meta name="og:image" content="{{meta.siteBaseUrl}}/img/cover.jpg">
-
-    {% if not metatags["og:image"] %}
+    {% if metatags["og:image"] %}
         {% if tags and "gardenEntry" in tags %}
             <meta name="og:image" content="{{meta.siteBaseUrl}}/img/cover.jpg">
         {% elif noteIcon in [1, 2, 3]%}
