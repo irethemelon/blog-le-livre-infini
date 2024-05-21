@@ -54,6 +54,7 @@
 [[sepia\|sepia]]
 [[swan\|swan]]
 [[taxi\|taxi]]
+[[Venus fly-trap\|Venus fly-trap]]
 
 ## 2 认真的小驴 / Getting Shit Done
 >[!abstract]+
