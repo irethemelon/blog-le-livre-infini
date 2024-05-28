@@ -144,6 +144,13 @@
 [[Blue Hour\|Blue Hour]]
 [[Reminiscing\|Reminiscing]]
 
+## X 玩乐时间 / Play Time
+>[!abstract]+
+>本章为附赠章，记录些小驴没上班时的兴趣爱好，也用于提醒小驴自己：俺们其实是一个闪闪发光滴小女孩。章节名源自小驴最爱的电影导演之一Jacques Tati的《玩乐时间》，它也映照着小驴离开校园后，在钢筋水泥丛林中那颗格格不入的玩乐之心。
+
+
+
+
 ---
 
 # 关于本博客 / About This Blog
