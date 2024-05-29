@@ -83,6 +83,7 @@
 [[藕\|藕]]
 [[三妹火锅\|三妹火锅]]
 [[社员饭铺\|社员饭铺]]
+[[杏是早熟的桃\|杏是早熟的桃]]
 [[杨平兄弟\|杨平兄弟]]
 [[羊杂粉\|羊杂粉]]
 [[战友郡花面\|战友郡花面]]
@@ -128,6 +129,7 @@
 [[身材\|身材]]
 [[糖葫芦\|糖葫芦]]
 [[涂鸦\|涂鸦]]
+[[忘了很多秘诀\|忘了很多秘诀]]
 [[消失的鳞片\|消失的鳞片]]
 [[小黄\|小黄]]
 [[我恨工作\|我恨工作]]
@@ -182,7 +184,7 @@
 irethemelon@yeah.net
 
 我的社媒：
-- Telegram Channel: [rabbit_hole_bonanza](https://t.me/rabbitholebonanza2)
+- Telegram Channel: [rabbit_hole_bonanza](https://t.me/rabbitholebonanza3)
 - Weibo:  [either·here·or·there](https://weibo.com/toxicmelon49)
 - Douban: [silo](https://www.douban.com/people/IreRulez/)
 - 微信公众号: 49Kerfuffles
