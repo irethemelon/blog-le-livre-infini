@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"the-making-of-a-gold-ring","permalink":"/the-making-of-a-gold-ring/"}
+{"dg-publish":true,"dg-permalink":"HK&CD-the-making-of-a-gold-ring","permalink":"/HK&CD-the-making-of-a-gold-ring/"}
 ---
 
 在香港和b呆在一起的最后一天，行李箱在我们身后敞着口。我想如果我永远都不去合上它，我便就永远不会远离他。我就站在他家的落地窗前，和他安静地倚靠，浅浅地呼吸着，看脚下的江海、流船，斜坡乘托着手指头一般伸出的楼栋和骰子一样背着命运来回滚动的汽车。结束拥抱后，他把我拉到钢琴边，从兜里掏出一只戒指戴上了我的小指，“Your souvenir”，他说。
