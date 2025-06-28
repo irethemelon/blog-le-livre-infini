@@ -20,7 +20,7 @@
 [[献给小羊的英语教材：学习代码，理解代码，成为代码，超越代码\|献给小羊的英语教材：学习代码，理解代码，成为代码，超越代码]]
 
 ### 0.2 最新发布 / Newest Release
-[[Sydney & Bali - Same Same But Different\|Sydney & Bali - Same Same But Different]]
+[[我的味蕾离散\|我的味蕾离散]]
 
 ### 0.3 敬请期待 / In Progress
 [[拍宝丽来，睡席梦思，贴邦迪：词汇的genericization现象\|拍宝丽来，睡席梦思，贴邦迪：词汇的genericization现象]]
@@ -132,6 +132,7 @@
 [[我恨工作\|我恨工作]]
 [[我没有壳子\|我没有壳子]]
 [[形似的夕阳\|形似的夕阳]]
+[[我的味蕾离散\|我的味蕾离散]]
 
 ## 5 无解的爱情 / Learning to Love
 >[!abstract]+
